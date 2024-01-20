@@ -30,3 +30,14 @@
 ![ github stats](https://github-readme-stats.vercel.app/api?username=asifahmad07&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifahmad07&theme=tokyonight" alt="mystreak"/>
 ![ Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifahmad07&theme=tokyonight&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=asifahmad07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=asifahmad07&limit=5&theme=dark&combine_all_yearly_contributions=true)
