@@ -30,7 +30,7 @@
 ###
 
 ![ github stats](https://github-readme-stats.vercel.app/api?username=asifahmad07&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asifahmad07&theme=tokyonight" alt="GitHub streak stats for Asif Ahmad" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asifahmad07&theme=tokyonight" alt="mystreak"/> 
 ![ Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifahmad07&theme=tokyonight&layout=compact)
 
 ## 🏆 GitHub Trophies
