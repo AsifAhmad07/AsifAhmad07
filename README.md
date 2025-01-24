@@ -1,6 +1,6 @@
 ![logo](https://github.com/AsifAhmad07/AsifAhmad07/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 
-<p align=center><img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width=50%></p>
+<p align=center><img src="https://camo.githubusercontent.com/eed1fc8b01162c5a31b601f919d9daab021cf8a3e79ad42c72e3860732cd4a1a/68747470733a2f2f692e6962622e636f2f4d6b645130626a2f6861636b65722d31396a6a2e6a7067" width=50%></p>
 <h1 align="center">Hi 👋, I'm Asif Iqbal</h1>
 <h3 align="center">A passionate developer from India</h3>
 <!--<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"> -->
